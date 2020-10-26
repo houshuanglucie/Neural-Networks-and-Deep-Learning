@@ -2,7 +2,16 @@
 
 *This is one of the Deep Learning Specialization courses in Coursera - September 2020*
 
-*In this course, we will learn and practice the foundations of deep learning.*
+*In this course, we learn and practice the foundations of deep learning.*
+
+## Objectives
+
+- Understand the major technology trends driving Deep Learning
+- Be able to build, train and apply fully connected deep neural networks 
+- Know how to implement efficient (vectorized) neural networks 
+- Understand the key parameters in a neural network's architecture 
+
+<br>
 
 ## Syllabus
 
@@ -17,12 +26,3 @@
 
 #### Week 4: Deep Neural Networks
 - Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
-
-<br>
-
-## What we will learn
-- Understand the major technology trends driving Deep Learning
-- Be able to build, train and apply fully connected deep neural networks 
-- Know how to implement efficient (vectorized) neural networks 
-- Understand the key parameters in a neural network's architecture 
-
