@@ -1,6 +1,7 @@
 # Neural-Networks-and-Deep-Learning
 
 *This is one of the Deep Learning Specialization courses in Coursera - September 2020*
+
 *In this course, we will learn and practice the foundations of deep learning.*
 
 ## Syllabus
