@@ -2,7 +2,7 @@
 
 *This is one of the Deep Learning Specialization courses I studied in Coursera - September 2020*
 
-*[View Certificate](https://www.coursera.org/account/accomplishments/verify/D2EXJN8XNHN3)
+*[View Certificate](https://www.coursera.org/account/accomplishments/verify/D2EXJN8XNHN3)*
 
 *In this course, we learn and practice the foundations of deep learning.*
 
